@@ -1,6 +1,6 @@
 import smtplib
 
-to= input("enter the email of reciever")
+to = input("enter the email of reciever")
 message = input("enter the message:-")
 sender_email= input("enter the sender email")
 passward = input("enter the passward")
